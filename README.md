@@ -36,7 +36,7 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Project One** | A short description of what this project does and the problem it solves. | React · Node.js | [Visit repo](https://github.com/sayanxtanjin) |
+| **Nexora** | Nexora is an all-in-one ERP platform for managing business operations. | HTML · CSS · JS | [Visit repo](https://github.com/sayanxtanjin/Nexora) |
 | **Project Two** | A short description of what this project does and the problem it solves. | Python · Flask | [Visit repo](https://github.com/sayanxtanjin) |
 | **Project Three** | A short description of what this project does and the problem it solves. | Go · PostgreSQL | [Visit repo](https://github.com/sayanxtanjin) |
 | **Project Four** | A short description of what this project does and the problem it solves. | PHP · MySQL | [Visit repo](https://github.com/sayanxtanjin) |
